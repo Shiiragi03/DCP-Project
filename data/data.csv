@@ -1,2 +1,5 @@
-date, start_time, subject, duration_minutes, distractions_number, location
-24.10.2026, 12:30, DCP, 180, 4, Home
+date,start_time,subject,duration_minutes,distractions_number,location
+24.10.2026,12:30,Programming,180,4,Home
+24.10.2026,16:30,Music,120,2,Home
+25.10.2026,09:00,Music,10,0,Home
+25.10.2026,16:00,Programming,60,1,Home
