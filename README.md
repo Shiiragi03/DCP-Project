@@ -21,6 +21,7 @@ Where I study
 
 1. Do longer study sessions tend to have more distractions?
 2. Does the subject I’m studying affect the length of time it takes to learn it and the number of distractions?
+3. Does the place of study affect the number of distractions?
 
 These questions may be changed or refined as the dataset grows.
 
