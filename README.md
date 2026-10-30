@@ -26,9 +26,9 @@ These questions may be changed or refined as the dataset grows.
 
 ## CSV Data Dictionary
 ### Columns 
-date - The date when study seesion took place
-start_time - The time when I started 
-subject - The subject that i studied
-duration_minutes - The total duration of studies session
-distraction_number - The number of times I got distracted during the studies
-location - Place where i studied 
+- date - The date when study seesion took place 
+- start_time - The time when I started 
+- subject - The subject that i studied
+- duration_minutes - The total duration of studies session
+- distraction_number - The number of times I got distracted during the studies
+- location - Place where i studied 
